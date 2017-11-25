@@ -78,7 +78,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.2.1)
+  jekyll (>= 3.2.1)
   jekyll-feed
   jekyll-gist
   jekyll-mentions
@@ -86,4 +86,4 @@ DEPENDENCIES
   jekyll-sitemap
 
 BUNDLED WITH
-   1.15.4
+   1.16.0
