@@ -1,1 +1,114 @@
-Breathing in i know i am breathing in. Breathing out i know i am breathing out
+---
+layout: null
+title: Mindfulness at the computer - Home Page
+---
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+    Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+	Edited for Mindfulness at the computer.
+-->
+<html>
+	<head>
+    {% include head.html %}
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+            			<h1>{{site.title}}</h1>
+						<!--<h2>The Jekyll Theme Version</h2>-->
+						<!--<p>Massively is an HTML5 website theme designed by <a href="https://twitter.com/ajlkn">@ajlkn</a> for <a href="https://html5up.net">HTML5 UP</a><br />-->
+						<!--and released for free under the <a href="https://html5up.net/license">Creative Commons license</a>. Jekyll integration by <a href="https://somiibo.com">Somiibo</a></p>-->
+						<ul class="actions">
+							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            			{% include nav.html %}
+
+						<ul class="icons">
+						  <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
+						  <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<h3><a href="#">A mindfulness and self-care application for people spending many hours in front of the computer</a></h3>
+									<p>The application reminds you to take breaks from the computer, <br />
+										helps you remember to stay in touch with and be mindful of your breathing and body while sitting at the computer, <br />
+										and helps you concentrate on your inhaling and exhaling when you need a breathing pause
+									</p>
+								</header>
+								<a href="#" class="image fit"><img src="{{ "/images/rest-dialog.jpg" | absolute_url }}" alt="" /></a>
+								<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/O8UwpXhcY4k?list=PL19ftcT2gVXZNWPbcAWgVJj_OFXwqQqS7" frameborder="0" allowfullscreen></iframe>-->
+							</article>
+							<article>
+								<h3>Prerequisites</h3>
+								<p>The application can be run on Windows and GNU/Linux </p>
+								<h3>License</h3>
+								<p>Mindfulness at the Computer is <a href="https://www.gnu.org/philosophy/free-sw.en.html">free software</a>, licensed under the GPLv3</p>
+								<h3>Features</h3>
+								<ul>
+									<li>Following your in-breath and out-breath with a graph displayed</li>
+									<ul>
+										<li>Breathe with text help ("Breathing in I know I am breathing in") and write your own texts</li>
+									</ul>
+									<li>Receive notifications to remember to be mindful of breathing while the application runs in the background</li>
+									<li>Get reminders when it's time to take a break from the computer while the application runs in the background</li>
+								</ul>
+								<p>You can find screenshots of the application <a href="screenshots.html">here</a> and download the application <a href="downloads.html">here</a></p>
+								<h3>Project Status and News</h3>
+								<p>This application is <a title="Mindfulness at the Computer - GitHub project page" href="https://github.com/SunyataZero/mindfulness-at-the-computer">currently under development</a>; users or developers are welcome to <a href="/participate.html">participate</a>. There is an alpha ("pre-release") version that you can try (see the downloads section)</p>
+								<h3>Sign up for Updates</h3>
+								<p>Subscribe to the newsletter to receive (occasional) email updates about new versions etc.</p>
+								<form
+										class="alt"
+										action="https://tinyletter.com/mindfulness-at-the-computer"
+										method="post"
+										target="popupwindow"
+										onsubmit="window.open('https://tinyletter.com/mindfulness-at-the-computer', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"
+								>
+									<div class="row uniform">
+										<div class="6u 12u$(xsmall)">
+											<input type="text" name="email" id="tlemail" placeholder="your email address" />
+											<input type="hidden" value="1" name="embed"/>
+											<input class="special" type="submit" value="Subscribe" />
+										</div>
+									</div>
+
+								</form> <!-- Form based on this code: https://app.tinyletter.com/#!/subscribe/link -->
+								<h3>Credits and Contact Info</h3>
+								<p>Mindfulness at the Computer is made by <a href="https://github.com/SunyataZero">SunyataZero</a>. You can reach him at tord (dot) dellsen (at) gmail (dot) com.<br />
+								Detailed credits can be found in the "Help" -> "About" menu inside the application</p>
+							</article>
+					</div>
+			</div>
+
+		<!-- Copyright -->
+		{% include copyright.html %}
+
+		<!-- Scripts -->
+		{% include scripts-main.html %}
+    {% include tracking.html %}
+
+	</body>
+</html>
