@@ -14,11 +14,11 @@ Please contact us using the info above
 
 ### Reporting a Bug
 
-You can report bugs in the [github issue tracker](https://github.com/SunyataZero/mindfulness-at-the-computer)
+You can report bugs in the [github issue tracker](https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer/issues)
 
 ### Suggesting a feature
 
-You can add your ideas to [this github wiki page](https://github.com/SunyataZero/mindfulness-at-the-computer/wiki/Ideas-for-the-application) or join the discussion in the gitter chat
+You can add your ideas to [this github wiki page](https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer/wiki/Ideas-for-the-application) or join the discussion in the gitter chat
 
 ### Spread the Word
 
@@ -32,5 +32,5 @@ If you like you can explain what about the application that you like and optiona
 
 ### For Nerds
 
-If you are a __programmer__ or interested in the underlying tech here is the [github project site](https://github.com/SunyataZero/mindfulness-at-the-computer). 
+If you are a __programmer__ or interested in the underlying tech here is the [github project site](https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer). 
 This project is newbie-friendly, so please feel free to ask questions if things are unclear and ask for improved documentation
