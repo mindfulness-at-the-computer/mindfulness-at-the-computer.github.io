@@ -6,31 +6,35 @@ title: Mindfulness at the computer - Screenshots
 
 ### Main interface
 
-<span class="image fit"><img src="{{ "/images/screenshot-main-interface-small.jpg" | absolute_url }}" alt="" /></span>
+<span class="image fit"><img src="{{ "/images/settings.png" | absolute_url }}" alt="Screenshot of settings window" /></span>
 
 ### System tray menu
 
 <div class="box alt">
     <div class="row 50% uniform">
-        <div class="4u"><span class="image fit"><img src="{{ "/images/system-tray-menu.jpg" | absolute_url }}" alt="" /></span></div>
+        <div class="4u"><span class="image fit"><img src="{{ "/images/systray_menu.png" | absolute_url }}" alt="Screenshot of system tray" /></span></div>
     </div>
 </div>
 
-### Breathing notification
+### Breathing dialog
 
 <div class="box alt">
     <div class="row 50% uniform">
-        <div class="4u"><span class="image fit"><img src="{{ "/images/screenshot-breathing-notification.jpg" | absolute_url }}" alt="" /></span></div>
+        <div class="4u"><span class="image fit"><img src="{{ "/images/breathing_dialog.png" | absolute_url }}" alt="Screenshot of breathing dialog" /></span></div>
     </div>
 </div>
 
 ### Rest dialog
 
-<span class="image fit"><img src="{{ "/images/rest-dialog.jpg" | absolute_url }}" alt="" /></span>
+<span class="image fit"><img src="{{ "/images/rest_dialog.png" | absolute_url }}" alt="Screenshot of rest dialog" /></span>
 
-### Main interface - with all settings visible
+### Rest reminder
 
-<span class="image fit"><img src="{{ "/images/screenshot-main-interface.jpg" | absolute_url }}" alt="" /></span>
+<div class="box alt">
+    <div class="row 50% uniform">
+        <div class="4u"><span class="image fit"><img src="{{ "/images/rest_reminder.png" | absolute_url }}" alt="Screenshot of rest reminder" /></span></div>
+    </div>
+</div>
 
 ### <a name="video"></a>Video
 
