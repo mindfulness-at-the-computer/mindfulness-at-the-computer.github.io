@@ -38,6 +38,8 @@ title: Mindfulness at the computer - Screenshots
 
 ### <a name="video"></a>Video
 
-<div class="intrinsic-container intrinsic-container-16x9">
-  <iframe src="https://www.youtube.com/embed/O8UwpXhcY4k" allowfullscreen></iframe>
+<div class="box alt">
+    <div class="row 50% uniform">
+        <div class="4u"><iframe width="300" height="169" src="https://www.youtube.com/embed/4H_jTN30jFQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+    </div>
 </div>
