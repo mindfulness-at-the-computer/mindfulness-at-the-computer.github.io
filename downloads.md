@@ -8,7 +8,7 @@ title: Mindfulness at the computer - Downloads
 
 <div class="row">
     <div class="6u 12u$(small)">
-        <a href="https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer/releases/download/v1.0.0-alpha.4/mindfulness-at-the-computer_alpha4_windows64_build2.zip" class="button special fit icon fa-download">Windows Alpha 4</a>
+        <a href="https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer/releases/download/v1.0.0-alpha.5/mindfulness-at-the-computer_alpha5_windows-64_build1.zip" class="button special fit icon fa-download">Windows Alpha 5</a>
     </div>
 </div>
 <br />
@@ -17,7 +17,7 @@ title: Mindfulness at the computer - Downloads
 
 <div class="row">
     <div class="6u 12u$(small)">
-        <a href="https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer/releases/download/v1.0.0-alpha.4/mindfulness-at-the-computer_alpha4_linux64_build1.tar.gz" class="button special fit icon fa-download">Linux Alpha 4</a>
+        <a href="https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer/releases/download/v1.0.0-alpha.5/mindfulness-at-the-computer_alpha5_linux-64_build1.tar.gz" class="button special fit icon fa-download">Linux Alpha 5</a>
     </div>
 </div>
 <br />
@@ -26,7 +26,7 @@ title: Mindfulness at the computer - Downloads
 
 <div class="row">
     <div class="6u 12u$(small)">
-        <a href="https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer/releases/download/v1.0.0-alpha.4/mindfulness-at-the-computer_alpha4_macos_build4.dmg" class="button special fit icon fa-download">MacOS Alpha 4</a>
+        <a href="https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer/releases/download/v1.0.0-alpha.5/mindfulness-at-the-computer_alpha5_macos.dmg" class="button special fit icon fa-download">MacOS Alpha 5</a>
     </div>
 </div>
 
